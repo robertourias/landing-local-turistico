@@ -91,7 +91,7 @@ h3 {
   color: var(--accent-purple);
 }
 
-#header p {
+#header p:not(.headline) {
   text-align: center;
 }
 
